@@ -1,2 +1,2 @@
 # Proximity-Analysis
-this is an al project  from A_Y
+This is an AI project.
